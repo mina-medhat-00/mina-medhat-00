@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/VwnBcqR.png" width="100%">
-
+<img src="https://i.imgur.com/wD1kJVv.png" width="100%">
 <p align="center">
   <a href="https://michaelloka.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/minamedhat00/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
