@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://i.imgur.com/wD1kJVv.png" width="100%">
 <p align="center">
   <a href="https://michaelloka.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
