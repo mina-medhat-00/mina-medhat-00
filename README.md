@@ -26,4 +26,5 @@ Passionate Backend Web Developer with a strong foundation in designing and imple
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=316c5e&style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="/>
 </p>
