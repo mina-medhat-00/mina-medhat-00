@@ -1,10 +1,9 @@
 <img src="https://i.imgur.com/wD1kJVv.png" width="100%">
 <p align="center">
-  <a href="https://michaelloka.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://mina-medhat-00.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/minamedhat00/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:1801782@eng.asu.edu.eg"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <br>
-  <a href="https://monkeytype.com/profile/Michael_Luka"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Monkeytype&color=222222&logo=Monkeytype&logoColor=E2B714&label="></a>
   <br>
 
 </p>
