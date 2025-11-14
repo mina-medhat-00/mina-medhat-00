@@ -1,6 +1,6 @@
-# Hi, I'm Mina Medhat 👋
+# Hi, I'm Mina Medhat
 
-Web Developer focused on the structured design and implementation of effective web solutions, encompassing both front-end and back-end development. My expertise extends to building user-centric interfaces utilizing modern front-end technologies, alongside skills in RESTful API development, database optimization, and security protocols to address complex challenges. My approach emphasizes collaboration within team environments to ensure the successful delivery of applications.
+Software Engineer focused on the structured design and implementation of effective web solutions, encompassing both front-end and back-end development. Having experience in building interfaces using modern front-end technologies, alongside skills in RESTful API development and database optimization. My approach emphasizes collaboration within team environments, ensuring successful delivery.
 
 ## Connect with Me
 
