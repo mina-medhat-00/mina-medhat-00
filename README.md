@@ -7,8 +7,6 @@
   <a href="https://minamedhat.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
----
-
 ## About Me
 
 I'm a full-stack engineer who builds scalable web applications end to end. I work on modular, well-tested back-ends and fast, SEO-friendly front-ends.
@@ -63,8 +61,6 @@ I'm a full-stack engineer who builds scalable web applications end to end. I wor
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
 
 ## GitHub Stats
 
